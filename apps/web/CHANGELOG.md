@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.21.0](https://github.com/VitalyAnkh/daed/compare/v1.20.0...v1.21.0) (2025-12-06)
+
+
+### Features
+
+* **parser:** add parser for dae language with AST and symbol information ([12b5754](https://github.com/VitalyAnkh/daed/commit/12b5754b8f53b5dbac00b9aac0839f5d52113736))
+* re-trigger release-please ([4febcf7](https://github.com/VitalyAnkh/daed/commit/4febcf7ebba807474e8215510669e0a756c31585))
+* trigger release ([e6618d5](https://github.com/VitalyAnkh/daed/commit/e6618d5cfb721dec3633278018e2f254c23daff9))
+* update pnpm workspace and add turbo configuration ([4484dc4](https://github.com/VitalyAnkh/daed/commit/4484dc43be6f1d229053bcc7bd589c528707024f))
+
 ## [1.20.0](https://github.com/daeuniverse/daed/compare/v1.19.0...v1.20.0) (2025-12-06)
 
 
